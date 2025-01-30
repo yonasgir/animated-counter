@@ -1,0 +1,35 @@
+
+ body {
+     background-color: #000;
+     /* Black background */
+     color: white;
+ }
+
+ .counter-box {
+     padding: 1.5rem;
+     border-radius: 10px;
+     box-shadow: 0px 4px 10px rgba(255, 215, 0, 0.7);
+     /* Golden shadow effect */
+ }
+
+ .counter-box:nth-child(1) {
+     background-color: #1a1a1a;
+ }
+
+ /* Dark Gray */
+ .counter-box:nth-child(2) {
+     background-color: #222;
+ }
+
+ /* Slightly Lighter Gray */
+ .counter-box:nth-child(3) {
+     background-color: #292929;
+ }
+
+ /* Medium Gray */
+ .counter-box:nth-child(4) {
+     background-color: #FFD700;
+     color: black;
+ }
+
+ /* Gold for Total */

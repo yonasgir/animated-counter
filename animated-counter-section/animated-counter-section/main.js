@@ -1,0 +1,1 @@
+//the js is in the index page
